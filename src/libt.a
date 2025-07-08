@@ -1,0 +1,6 @@
+!<arch>
+/               1751944140  0     0     0       64        `
+      „  ¼  ,  ,t_dll_iname _head_t_dll encode __imp_encode t_dll_d000004.o/1751944140  0     0     644     252       `
+d†     ¤         .idata$4           Œ                 0À.idata$5           ”                 0À.idata$7           œ                 0À                t.dll   .idata$4        .idata$5        .idata$7                          t_dll_iname t_dll_d000002.o/1751944140  0     0     644     308       `
+d†     ¾         .idata$2           Œ                0À.idata$5                              0À.idata$4                              0À                                          .idata$2        .idata$5        .idata$4                                          _head_t_dll t_dll_iname t_dll_d000003.o/1751944140  0     0     644     473       `
+d†     ,        .text              Ü              0`.idata$7           ä              0À.idata$5           è              0À.idata$4           ð   "           0À.idata$6           ø                 0Àÿ%                          encode                                   .text           .idata$7        .idata$5        .idata$4        .idata$6        encode                                            __imp_encode _head_t_dll 
